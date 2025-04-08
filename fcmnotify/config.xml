@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>fcmnotify</name>
+    <displayName>Firebase Notification</displayName>
+    <version>1.0.0</version>
+    <author>Samuel Calderón</author>
+    <description>Send FCM push notifications on order status update</description>
+</module>
